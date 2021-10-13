@@ -1,0 +1,8 @@
+.ipynb_*
+__pycache__*
+scores/*
+!scores/.gitkeep 
+*.zip
+figures/*
+!figures/.gitkeep
+archives*
